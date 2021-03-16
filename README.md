@@ -10,7 +10,7 @@
 - :computer: Web developer Coding Bootcamp at Le Wagon
 - :briefcase: I also have worked with entrepreneurship; innovation; junior consultancy (strategy, marketing, administrative restructuring).
 - :rocket: I was founder of a vegan market place startup
-- :art: I consider painting as my second job | Instagram
+- :art: I consider painting as my second job (Instagram)
 - 💬 Ask me about my :earth_africa: trip through 50 countries
 
 <h3 align="center">Languages and Tools:</h3>
