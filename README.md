@@ -2,10 +2,10 @@
 <h3 align="center">Full Stack Web Developer | Ruby | Javascript</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/fernandogomesrodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fernandogomesrodrigues" height="30" width="40" /></a>
-<a href="https://instagram.com/ofernandovegano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ofernandovegano" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/fernandogomesrodrigues" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.110492037.1418171008.1615935198-1220896006.1615935198" alt="fernandogomesrodrigues" height="30" width="30" /></a>
+  <a href="https://instagram.com/ofernandovegano" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_128x128.png?_ga=2.110492037.1418171008.1615935198-1220896006.1615935198" alt="ofernandovegano" height="30" width="30" /></a>
 </p>
-
+  
 - :mortar_board: Graduated in business at University of São Paulo
 - :computer: Web developer Coding Bootcamp at Le Wagon
 - :briefcase: I also have worked with entrepreneurship; innovation; junior consultancy (strategy, marketing, administrative restructuring).
