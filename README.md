@@ -9,7 +9,7 @@ mon<h1 align="center">Hi 👋, I'm Fernando</h1>
 - :mortar_board: Graduated in business at University of São Paulo
 - :computer: Web developer Coding Bootcamp at Le Wagon
 - :briefcase: I also have worked with entrepreneurship; innovation; consultancy.
-- :rocket: I was founder of a vegan market place startup
+- :rocket: I was the founder of a vegan market place startup
 - :art: I consider painting as my second job (Instagram)
 - 💬 Ask me about my :earth_africa: trip through 50 countries
 
