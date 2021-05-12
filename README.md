@@ -1,5 +1,5 @@
 mon<h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">Full Stack Web Developer | Ruby | Javascript</h3>
+<h3 align="center">Full Stack Web Developer | React | Ruby | Javascript</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fernandogomesrodrigues" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.110492037.1418171008.1615935198-1220896006.1615935198" alt="fernandogomesrodrigues" height="25" width="25" /></a>
@@ -35,7 +35,6 @@ mon<h1 align="center">Hi 👋, I'm Fernando</h1>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
   
   
 </p>
