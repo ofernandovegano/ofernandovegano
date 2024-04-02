@@ -8,10 +8,9 @@
   
 - :mortar_board: Graduated in business at University of São Paulo
 - :computer: Web developer Coding Bootcamp at Le Wagon
-- :briefcase: I also have worked with entrepreneurship; innovation; consultancy.
+- :briefcase: I also have worked with entrepreneurship; innovation; and consultancy.
 - :rocket: I was the founder of a vegan marketplace startup
-- :art: I consider painting as my second job (Instagram)
-- 💬 Ask me about my :earth_africa: trip through 50 countries
+- 💬 Ask me about my :earth_africa: trip through 58 countries
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
